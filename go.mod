@@ -1,4 +1,4 @@
-module github.com/simulot/immich-go
+module github.com/jaybinks/immich-go
 
 go 1.21
 
