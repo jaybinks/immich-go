@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/simulot/immich-go/helpers/fshelper"
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/helpers/fshelper"
+	"github.com/jaybinks/immich-go/logger"
 )
 
 func TestReadBigTakeout(t *testing.T) {

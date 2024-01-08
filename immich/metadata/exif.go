@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/simulot/immich-go/helpers/tzone"
+	"github.com/jaybinks/immich-go/helpers/tzone"
 
 	"github.com/rwcarlsen/goexif/exif"
 )

@@ -8,7 +8,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/simulot/immich-go/helpers/gen"
+	"github.com/jaybinks/immich-go/helpers/gen"
 )
 
 type pathFS struct {

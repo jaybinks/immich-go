@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/jaybinks/immich-go/immich"
+	"github.com/jaybinks/immich-go/logger"
 	"github.com/joho/godotenv"
-	"github.com/simulot/immich-go/immich"
-	"github.com/simulot/immich-go/logger"
 )
 
 type immichSetupFunc func(ctx context.Context, t *testing.T, ic *immich.ImmichClient) func(t *testing.T)

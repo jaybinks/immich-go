@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/jaybinks/immich-go/immich/metadata"
 	"github.com/kr/pretty"
-	"github.com/simulot/immich-go/immich/metadata"
 )
 
 type asset struct {

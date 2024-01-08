@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/simulot/immich-go/helpers/tzone"
+	"github.com/jaybinks/immich-go/helpers/tzone"
 )
 
 func TestTakeTimeFromName(t *testing.T) {

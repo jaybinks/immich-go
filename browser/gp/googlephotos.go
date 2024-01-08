@@ -10,11 +10,11 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/simulot/immich-go/browser"
+	"github.com/jaybinks/immich-go/browser"
 
-	"github.com/simulot/immich-go/helpers/fshelper"
-	"github.com/simulot/immich-go/helpers/gen"
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/helpers/fshelper"
+	"github.com/jaybinks/immich-go/helpers/gen"
+	"github.com/jaybinks/immich-go/logger"
 )
 
 type Takeout struct {

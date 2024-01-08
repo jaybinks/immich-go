@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/simulot/immich-go/helpers/fshelper"
-	"github.com/simulot/immich-go/immich/metadata"
+	"github.com/jaybinks/immich-go/helpers/fshelper"
+	"github.com/jaybinks/immich-go/immich/metadata"
 )
 
 /*

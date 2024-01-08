@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/simulot/immich-go/helpers/tzone"
+	"github.com/jaybinks/immich-go/helpers/tzone"
 )
 
 type GoogleMetaData struct {
