@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/simulot/immich-go/helpers/tzone"
+	"github.com/jaybinks/immich-go/helpers/tzone"
 )
 
 type UnsupportedMedia struct {

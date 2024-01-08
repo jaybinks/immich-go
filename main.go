@@ -10,15 +10,15 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/simulot/immich-go/cmdduplicate"
-	"github.com/simulot/immich-go/cmdmetadata"
-	"github.com/simulot/immich-go/cmdstack"
-	"github.com/simulot/immich-go/cmdtool"
-	"github.com/simulot/immich-go/cmdupload"
-	"github.com/simulot/immich-go/helpers/myflag"
-	"github.com/simulot/immich-go/helpers/tzone"
-	"github.com/simulot/immich-go/immich"
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/cmdduplicate"
+	"github.com/jaybinks/immich-go/cmdmetadata"
+	"github.com/jaybinks/immich-go/cmdstack"
+	"github.com/jaybinks/immich-go/cmdtool"
+	"github.com/jaybinks/immich-go/cmdupload"
+	"github.com/jaybinks/immich-go/helpers/myflag"
+	"github.com/jaybinks/immich-go/helpers/tzone"
+	"github.com/jaybinks/immich-go/immich"
+	"github.com/jaybinks/immich-go/logger"
 )
 
 var (

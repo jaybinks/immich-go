@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/simulot/immich-go/helpers/fshelper"
-	"github.com/simulot/immich-go/helpers/gen"
-	"github.com/simulot/immich-go/immich"
+	"github.com/jaybinks/immich-go/helpers/fshelper"
+	"github.com/jaybinks/immich-go/helpers/gen"
+	"github.com/jaybinks/immich-go/immich"
 )
 
 type Key struct {
