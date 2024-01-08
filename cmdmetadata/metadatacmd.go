@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/simulot/immich-go/helpers/docker"
-	"github.com/simulot/immich-go/helpers/myflag"
-	"github.com/simulot/immich-go/immich"
-	"github.com/simulot/immich-go/immich/metadata"
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/helpers/docker"
+	"github.com/jaybinks/immich-go/helpers/myflag"
+	"github.com/jaybinks/immich-go/immich"
+	"github.com/jaybinks/immich-go/immich/metadata"
+	"github.com/jaybinks/immich-go/logger"
 )
 
 type MetadataCmd struct {

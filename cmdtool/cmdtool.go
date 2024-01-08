@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/simulot/immich-go/cmdtool/cmdalbum"
-	"github.com/simulot/immich-go/immich"
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/cmdtool/cmdalbum"
+	"github.com/jaybinks/immich-go/immich"
+	"github.com/jaybinks/immich-go/logger"
 )
 
 func CommandTool(ctx context.Context, ic *immich.ImmichClient, logger *logger.Log, args []string) error {

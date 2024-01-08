@@ -5,8 +5,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/simulot/immich-go/browser"
-	"github.com/simulot/immich-go/immich"
+	"github.com/jaybinks/immich-go/browser"
+	"github.com/jaybinks/immich-go/immich"
 )
 
 type AssetIndex struct {

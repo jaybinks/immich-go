@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/simulot/immich-go/browser"
-	"github.com/simulot/immich-go/helpers/fshelper"
-	"github.com/simulot/immich-go/immich/metadata"
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/browser"
+	"github.com/jaybinks/immich-go/helpers/fshelper"
+	"github.com/jaybinks/immich-go/immich/metadata"
+	"github.com/jaybinks/immich-go/logger"
 )
 
 type LocalAssetBrowser struct {

@@ -8,9 +8,9 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/simulot/immich-go/immich"
-	"github.com/simulot/immich-go/logger"
-	"github.com/simulot/immich-go/ui"
+	"github.com/jaybinks/immich-go/immich"
+	"github.com/jaybinks/immich-go/logger"
+	"github.com/jaybinks/immich-go/ui"
 )
 
 func AlbumCommand(ctx context.Context, ic *immich.ImmichClient, log *logger.Log, args []string) error {

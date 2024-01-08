@@ -7,10 +7,10 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/simulot/immich-go/helpers/stacking"
-	"github.com/simulot/immich-go/immich"
-	"github.com/simulot/immich-go/logger"
-	"github.com/simulot/immich-go/ui"
+	"github.com/jaybinks/immich-go/helpers/stacking"
+	"github.com/jaybinks/immich-go/immich"
+	"github.com/jaybinks/immich-go/logger"
+	"github.com/jaybinks/immich-go/ui"
 )
 
 type StackCmd struct {

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/logger"
 
 	"github.com/kr/pretty"
 )

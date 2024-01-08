@@ -14,17 +14,17 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/simulot/immich-go/browser"
-	"github.com/simulot/immich-go/browser/files"
-	"github.com/simulot/immich-go/browser/gp"
-	"github.com/simulot/immich-go/helpers/fshelper"
-	"github.com/simulot/immich-go/helpers/gen"
-	"github.com/simulot/immich-go/helpers/myflag"
-	"github.com/simulot/immich-go/helpers/stacking"
-	"github.com/simulot/immich-go/immich"
-	"github.com/simulot/immich-go/immich/metadata"
+	"github.com/jaybinks/immich-go/browser"
+	"github.com/jaybinks/immich-go/browser/files"
+	"github.com/jaybinks/immich-go/browser/gp"
+	"github.com/jaybinks/immich-go/helpers/fshelper"
+	"github.com/jaybinks/immich-go/helpers/gen"
+	"github.com/jaybinks/immich-go/helpers/myflag"
+	"github.com/jaybinks/immich-go/helpers/stacking"
+	"github.com/jaybinks/immich-go/immich"
+	"github.com/jaybinks/immich-go/immich/metadata"
 
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/logger"
 )
 
 // iClient is an interface that implements the minimal immich client set of features for uploading

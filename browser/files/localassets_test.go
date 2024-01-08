@@ -8,8 +8,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/simulot/immich-go/browser/files"
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/browser/files"
+	"github.com/jaybinks/immich-go/logger"
 
 	"github.com/kr/pretty"
 	"github.com/psanford/memfs"

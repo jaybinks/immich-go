@@ -9,10 +9,10 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/simulot/immich-go/browser"
-	"github.com/simulot/immich-go/helpers/gen"
-	"github.com/simulot/immich-go/immich"
-	"github.com/simulot/immich-go/logger"
+	"github.com/jaybinks/immich-go/browser"
+	"github.com/jaybinks/immich-go/helpers/gen"
+	"github.com/jaybinks/immich-go/immich"
+	"github.com/jaybinks/immich-go/logger"
 
 	"github.com/kr/pretty"
 )

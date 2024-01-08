@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/simulot/immich-go/helpers/fshelper"
+	"github.com/jaybinks/immich-go/helpers/fshelper"
 )
 
 type Configuration struct {
